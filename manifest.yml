@@ -1,5 +1,6 @@
 ---
 applications:
  - name: movies-reviews-database-d1e
+   routes: movies-reviews-database-d1e.us-south.cf.appdomain.cloud
    random-route: false
    memory: 128M
